@@ -1,0 +1,2 @@
+# Employee-Data-Management-System
+This program will provide a user to see the whole employee’s information by using their specific ID. So, this program name is “Employee Data Management System” If an user input a ID of an employee the program will provide his/her information which was stored already. But if one input wrong ID more than three times the program will automatic terminate and will shut down by saying “Thank You”.
