@@ -1,0 +1,7 @@
+Name          : Mustafa Mahmud Huassain
+ID            : 2101106
+Department    : Electronic and Communication Engineering
+Designation   : Associate professer
+Qualification : M.Sc.(King's college,Univrsity of london,UK)
+                Telecommunications engineering   
+SALARY        : 15

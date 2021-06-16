@@ -1,0 +1,8 @@
+Name          : Anindita Paul
+ID            : 2101102
+Department    : Electronic and Communication Engineering
+Designation   : Associate professer 
+Qualification : M.Sc.(Jahangirnagar university),MATHEMATICS
+                M.Phil(Bangladdeh University of Engineering Technology ),MATHEMATICS
+                Ph.D(Jahangirnagar university),MATHEMATICS
+SALARY        : 15

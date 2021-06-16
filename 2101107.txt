@@ -1,0 +1,7 @@
+Name          : M.RUHUL AMIN
+ID            : 2101107
+Department    : Electronic and Communication Engineering
+Designation   : Professor
+Qualification : M.Sc.(Jahangirnagar university)
+                Ph.D(University of St Andrews,UK)
+SALARY        : 20

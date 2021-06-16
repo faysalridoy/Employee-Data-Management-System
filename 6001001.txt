@@ -1,0 +1,13 @@
+Name          : Anisul Haque
+ID            : 6001001 
+Department    : Electrical and Electronic Engineering
+Designation   : Professor
+Qualification : Ph.D in Electrical and Computer Engineering
+                (Claskson University,NY,USA)
+                MS in Electrical Engineering
+                (Texas A&M University,USA)
+                M.Sc. (Engg)Electrical and Electronic Engineering
+                (Bangladesh Universit0y of Engineering and Technology)
+                 B.Sc. (Engg)Electrical and Electronic Engineering
+                (Bangladesh Universit0y of Engineering and Technology)
+Salary        : 20

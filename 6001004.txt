@@ -1,0 +1,11 @@
+Name          : Muhammed Mazharul Islam
+ID            : 6001004
+Department    : Electrical and Electronic Engineering
+Designation   : Assistant Professor
+Qualification : D.Engg in Computer Science and Design Engineering
+                (Yamaguchi University,japan)
+                M.Sc. (Engg)Electrical and Electronic Engineering
+                (Yamaguchi University,japan)
+                 B.Sc. (Engg)Electrical and Electronic Engineering
+                (Bangladesh Universit0y of Engineering and Technology)
+Salary        : 12.5

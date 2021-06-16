@@ -1,0 +1,11 @@
+Name           :  Md. Mozammel Huq Azad Khan
+ID              : 7160102
+Department      : Computer Science and Engineering
+Designation     : Professor
+Quailification :  Ph.D in Computer Science and Engineering 
+                  ( Bangladesh University of Engineering Technology,Dhaka,Bangladesh)
+                  M.Sc. Engg. Computer Engineering 
+                  ( Bangladesh University of Engineering Technology,Dhaka,Bangladesh)
+                  B.Sc.Engg. Electrical and Electronic Engineering 
+                  ( Bangladesh University of Engineering Technology,Dhaka,Bangladesh)
+Salary          : 20

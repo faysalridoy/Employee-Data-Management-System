@@ -1,0 +1,8 @@
+Name           :  Md. Nawab Yousuf Ali
+ID              : 7160103
+Department      : Computer Science and Engineering
+Designation     : Associate ProfessorQuailification :  Ph.D in Computer Science and Engineering 
+                  ( Jahangirnagar Univerity,Dhaka,Bangladesh)
+                  M.Sc. in Computer Engineering 
+                  ( L'vov Polyechnic Institute,Lvov,Ukraine,USSR)
+Salary          : 15

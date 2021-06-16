@@ -1,0 +1,11 @@
+Name           :  Shaikh Muhammad Allayear
+ID              : 7160105
+Department      : Computer Science and Engineering
+Designation     : Assistant Professor
+Quailification :  Ph.D in Network Storage and High Performance Computing  
+                  ( Anyang University,South Korea )
+                  M.Sc.  Computer Science and Engineering
+                  ( Anyang University,South Korea )
+                  B.Sc.Eng. in Computer Science and Engineering 
+                  ( National University,Bangladesh)
+Salary          : 12.5

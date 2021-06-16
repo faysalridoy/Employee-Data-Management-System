@@ -1,0 +1,11 @@
+Name           :  Dr. Md. Shamim Akhter
+ID              : 7160109
+Department      : Computer Science and Engineering
+Designation     : Assistant Professor
+Quailification :  Ph.D in Information Processing  
+                  ( Tokyo Instituteof Technology,Japan )
+                  M.Sc. in Computer Science and Information Management(CSIM)
+                  ( Asian Institute of Technology,Thailand) 
+                  B.Sc.Eng. in Computer Science 
+                  ( American International University Bangladesh(AIUB),Bangladesh)
+Salary          : 12.5

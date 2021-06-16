@@ -1,0 +1,11 @@
+Name           :  Shaila Sharmeen
+ID              : 7160110
+Department      : Computer Science and Engineering
+Designation     : Senior Leturer
+Quailification :  Ph.D in Student  
+                  ( Bangladesh University of Engineering Technology,Dhaka,Bangladesh )
+                  M.Sc. in Telecommunication
+                  ( University of New South Wales,Sydney,Australia) 
+                  B.Sc.Eng. in Computer Science and Engineering 
+                  ( Khulna University of Engineering and Technology,Khulna,Bangladesh)
+Salary          : 10

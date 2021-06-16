@@ -1,0 +1,6 @@
+Name          : MD.Asif Hossain
+ID            : 2101104
+Department    : Electronic and Communication Engineering
+Designation   : Associate professer
+Qualification : M.Sc.(East West University),Telecommunucations Engineering           
+SALARY        : 15

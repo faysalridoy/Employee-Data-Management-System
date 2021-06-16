@@ -1,0 +1,11 @@
+Name           :  Dr. Mohammad Rezwanul Huq
+ID              : 7160108
+Department      : Computer Science and Engineering
+Designation     : Assistant Professor
+Quailification :  Ph.D in Computer Science  
+                  ( University of Twente,The Netherlands )
+                  M.Sc. in Computer Science Engineering
+                  ( Kyung Hee University,South Korea) 
+                  B.Sc.Eng. in Computer Science and Information Technology
+                  ( Islamic University of Technology,Gazipur,Bangladesh)
+Salary          : 12.5

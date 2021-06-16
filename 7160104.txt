@@ -1,0 +1,11 @@
+Name           :  Shamim H. Ripon
+ID              : 7160104
+Department      : Computer Science and Engineering
+Designation     : Associate Professor
+Quailification :  Ph.D in Computer Science  
+                  ( University of Southampton,UK)
+                  M.Sc. Engg. Computer Science 
+                  ( National Univeesity of Singapore)
+                  B.Sc.Eng. in Computer Science and Engineering 
+                  ( Khulna Universty,Khulna,Bangladesh)
+Salary          : 15

@@ -1,0 +1,11 @@
+Name          : Mohammad Mojammel Al Hakim
+ID            : 6001003
+Department    : Electrical and Electronic Engineering
+Designation   :  Associate Professor
+Qualification : Ph.D in Electrical  Engineering
+                (University of Southampton,UK)
+                M.Sc. (Engg)Electrical and Electronic Engineering
+                (Bangladesh Universit0y of Engineering and Technology)
+                 B.Sc. (Engg)Electrical and Electronic Engineering
+                (Bangladesh Universit0y of Engineering and Technology)
+Salary        : 15

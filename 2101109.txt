@@ -1,0 +1,6 @@
+Name          : Sarwer Jahan
+ID            : 2101109
+Department    : Electronic and Communication Engineering
+Designation   : Associate professer  
+Qualification : M.Eng.(University of techonology sydney)      
+SALARY        : 15

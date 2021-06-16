@@ -1,0 +1,8 @@
+Name          : M.Mofazzal Hossain
+ID            : 2101105
+Department    : Electronic and Communication Engineering
+Designation   : Professor
+Qualification : B.sc.Eng.EEE(BUET)
+                M.Sc.(Kanazawa University, Japan),EEE
+                Ph.D(Kanazwa University,japan),EEE
+Salary        : 20

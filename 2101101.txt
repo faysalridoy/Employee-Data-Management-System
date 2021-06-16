@@ -1,0 +1,7 @@
+Name         : Ahasan Ali
+ID           : 2101101
+Designation  : Lecturer             
+Department   : Electronic and Communication Engineering
+Qualification: B.sC.(jahangirnagar university),2010,mathematics 
+               M.sC.(jahangirnagar university),2012,mathematics 
+SALARY       : 30

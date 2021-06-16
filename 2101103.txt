@@ -1,0 +1,9 @@
+Name          : Gurudas Mandal
+ID            : 2101103
+Department    : Electronic and Communication Engineering
+Designation   : Associate professer
+Qualification : M.Sc.(Jahangirnagar university)
+                Ph.D(University of Pune,India)               
+SALARY        : 15
+
+

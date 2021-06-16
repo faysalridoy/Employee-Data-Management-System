@@ -1,0 +1,9 @@
+Name          : Fakir Mashuque Alamgir
+ID            : 6001007
+Department    : Electrical and Electronic Engineering
+Designation   :  Senior Lecturer
+Qualification :  M.Sc. in Wireless Communication and System  Engineering
+                (University of Greenwich,UK)
+                 B.Sc. (Engg)Computer Science And Communication Engineering
+                (University of Greenwich,UK)
+Salary        : 10

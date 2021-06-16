@@ -1,0 +1,11 @@
+Name          : Kazi Mujibur Rahman
+ID            : 6001010
+Department    : Electrical and Electronic Engineering
+Designation   : Professor
+Qualification : Ph.D in Electrical  Engineering
+                (angladesh Universit0y of Engineering and Technology)
+                M.Tech. in Industrial Electronics
+                (Mysore University)
+                 B.Sc. (Engg)Electrical and Electronic Engineering
+                (Bangladesh Universit0y of Engineering and Technology)
+Salary        : 20

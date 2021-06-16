@@ -1,0 +1,8 @@
+Name          : Nahid Akter Jahan
+ID            : 2101108
+Department    : Electronic and Communication Engineering
+Designation   : Associate professer
+Qualification : B.Sc.( of rajshahi),APE
+                M.sc(university of rajshahi),APE
+                Ph.D(Hokkaido university,Japan)
+SALARY        : 15

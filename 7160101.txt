@@ -1,0 +1,10 @@
+Name           :  Md. Sarwar Kamal
+ID              : 7160101
+Department      : Computer Science and Engineering
+Designation     : Senior Lecturer
+Quailification :  M.Sc. in Computer Science and Engineering 
+                  Chitagong University of Science and Techology
+                  (CUET)
+                  B.Sc.in Computer Science and Engineering 
+                  University of Chitagong
+Salary          : 30

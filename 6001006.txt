@@ -1,0 +1,9 @@
+Name          : Sharmin Rawshan Ara
+ID            : 6001006
+Department    : Electrical and Electronic Engineering
+Designation   :  Assistant Professor
+Qualification :  M.Sc. (Engg)Electrical and Computer Engineering
+                (Souther Illinois University,USA)
+                 B.Sc. (Engg)Electrical and Electronic Engineering
+                (Bangladesh Universit0y of Engineering and Technology)
+Salary        : 12.5

@@ -1,0 +1,9 @@
+Name          : Md.Niazul Islam Khan
+ID            : 6001009
+Department    : Electrical and Electronic Engineering
+Designation   : Lecturer
+Qualification : M.Sc. (Engg)in Communications Technology Major Microelectronics
+                (University og Ulm,Germany)
+                 B.Sc. (Engg)Electrical and Electronic Engineering
+                (Bangladesh Universit0y of Engineering and Technology)
+Salary        : 5

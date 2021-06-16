@@ -1,0 +1,9 @@
+Name           :  Taskeed Jabid
+ID              : 7160107
+Department      : Computer Science and Engineering
+Designation     : Assistant Professor
+Quailification :  Ph.D in Computer Vision and Image Processing  
+                  ( Kyung Hee University,South Korea )
+                  B.Sc.Eng. in Computer Science 
+                  ( East West University,Dhaka,Bangladesh)
+Salary          : 12.5

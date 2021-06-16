@@ -1,0 +1,6 @@
+Name          : Sabiha Rahman Juthy
+ID            : 2101110
+Department    : Electronic and Communication Engineering
+Designation   : Senior lecturer
+Qualification : M.Sc.(Royel institute of technology,Stockholm,sweden)Information technology
+SALARY        : 10

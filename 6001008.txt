@@ -1,0 +1,9 @@
+Name          : Mariam B.Salim
+ID            : 6001008
+Department    : Electrical and Electronic Engineering
+Designation   :  Senior Lecturer
+Qualification :  M.Sc.(Engg) in Global Information and Telecommunication Studies
+                (Waseda University,Japan)
+                 B.Sc. (Engg) in Electrical and Electronic Engineering
+                (Prairie View A&M University,Texas,USA)
+Salary        : 10
